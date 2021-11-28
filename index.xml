@@ -25,14 +25,5 @@
       <description>Open Issues:  With Win UAC (User Account Control) enabled, the logoff or logon script may block -&amp;gt; as a solution one may fetch/push the keepnote files manually via the terminal.  Prerequisites :  Github account Windows 10 Terminal (e.g. Git Bash)  Steps :  Go into the folder where you keep your files: e.g. &amp;lt;path&amp;gt;/_keepnote and initialize a git repository via e.g. Git Bash terminal:  $ cd &amp;lt;path&amp;gt;/_keepnote $ git init  Then create a repository on Github (https://docs.</description>
     </item>
     
-    <item>
-      <title>About me</title>
-      <link>https://klazic.org/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://klazic.org/about/</guid>
-      <description>I was born in a medium-size city in Austria and raised in the countryside near the beautiful lake Attersee. Coming from a rather big family I am used to be surrounded by people. I like to exchange ideas with other individuals and thereby improve my reasoning. Trying to look on myself from a bird&amp;rsquo;s eye view I would say that I am rather a generalist who likes to keep the overview over different things and see how these things can interact.</description>
-    </item>
-    
   </channel>
 </rss>
