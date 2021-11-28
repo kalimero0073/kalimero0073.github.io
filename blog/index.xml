@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Knowledge rests not upon truth alone, but upon error also. on Lexikale</title>
+    <link>https://lexikale.com/blog/</link>
+    <description>Recent content in Knowledge rests not upon truth alone, but upon error also. on Lexikale</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 02 Apr 2021 00:00:00 +0200</lastBuildDate><atom:link href="https://lexikale.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How I put this website online in a few hours</title>
+      <link>https://lexikale.com/blog/how_i_created_this_website/</link>
+      <pubDate>Fri, 02 Apr 2021 00:00:00 +0200</pubDate>
+      
+      <guid>https://lexikale.com/blog/how_i_created_this_website/</guid>
+      <description>Prerequisites:  Hugo installation (https://gohugo.io/getting-started/quick-start/#step-1-install-hugo) Hosting platform (e.g. Github Pages) Terminal - e.g. Git Bash Code editor - e.g. VSCode Chrome developer tools knowledge Basic HTML, CSS, markdown knowledge  Steps:  Create an empty folder (e.g. myblog)  $ mkdir myblog  Clone a hugo project including a theme (e.g. https://themes.gohugo.io/hugo-theme-pico/) into a temporary directory &amp;ldquo;temp&amp;rdquo;  $ git clone https://github.com/negrel/hugo-theme-pico.git temp  Copy the projects exampleSite into the website folder myblog and delete temp  $ cp -r temp/exampleSite/* myblog $ rm -rf temp  Run the setup.</description>
+    </item>
+    
+    <item>
+      <title>How I tried automating the synchronization of my KeepNote files between my office and home computer using Github</title>
+      <link>https://lexikale.com/blog/sync_notes/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0200</pubDate>
+      
+      <guid>https://lexikale.com/blog/sync_notes/</guid>
+      <description>Open Issues:  With Win UAC (User Account Control) enabled, the logoff or logon script may block -&amp;gt; as a solution one may fetch/push the keepnote files manually via the terminal.  Prerequisites :  Github account Windows 10 Terminal (e.g. Git Bash)  Steps :  Go into the folder where you keep your files: e.g. &amp;lt;path&amp;gt;/_keepnote and initialize a git repository via e.g. Git Bash terminal:  $ cd &amp;lt;path&amp;gt;/_keepnote $ git init  Then create a repository on Github (https://docs.</description>
+    </item>
+    
+  </channel>
+</rss>
